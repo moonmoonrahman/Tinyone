@@ -1,0 +1,281 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+ /*header starts*/
+  .menu ul li a {
+    
+    padding: 10px 0  0 !important;
+    font-size:12px;
+    text-align: right;
+}
+/*header ends*/
+.slider {
+    padding-bottom: 50px !important;
+    
+}
+/*slider ends*/
+.s_text {
+    margin-top: 0px;
+}
+.c_indi {
+    bottom: -45px;
+}
+.c_indi [data-bs-target] {
+    width: 11px !important;
+    height: 11px !important;
+
+}
+.s_text h1 {
+    font-size: 18px;
+    
+}
+.s_text h2 {
+    margin: 10px 0;
+    font-size: 14px;
+    
+}
+.s_text p {
+    margin-bottom: 18px;
+    font-size: 14px;
+}
+.s_icon ul li {
+    margin-right: 16px !important;
+}
+.s_icon ul li i {
+    font-size: 18px;
+    
+}
+/*features starts*/
+.c_padding {
+  padding-top:50px;
+  padding-bottom:70px;
+}
+.c_h1{
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+.c_p{
+  font-size: 17px;
+  line-height:24px;
+}
+.f_item{
+  margin-top: 30px;
+}
+.f_icon i{
+  margin-top: 0 !important;
+  font-size: 35px;
+  
+}
+
+.f_text{
+  text-align: center;
+}
+.f_text h2{
+  margin-bottom:0px ;
+  font-size: 20px;
+  
+}
+.f2_text p {
+  word-spacing: 0px;
+}
+/*contact starts*/
+.c_form{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.c_input{
+  height: 45px;
+  padding: 10px 10px;
+}
+/*submit/contact*/
+.c_icon li i {
+  font-size: 22px;
+}
+.c_icon li {
+  margin-right: 25px!important;
+}
+  
+
+/*contact ends*/
+/*footer starts*/
+footer{
+  padding-bottom: 70px;
+}
+.f_1{
+  text-align: center;
+  
+}
+.f_2{
+  margin-top: 40px;
+  
+  text-align: center;
+}
+/*footer ends*/
+ 
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  /*header starts*/
+  .menu ul li a {
+    
+    padding: 10px 0  0 !important;
+    font-size:14px;
+    text-align: right;
+     }
+/*header ends*/
+/*slider stats*/
+
+.slider {
+    padding-bottom: 50px !important;
+    
+}
+/*slider ends*/
+.s_text {
+    margin-top: 0px;
+}
+.c_indi {
+    bottom: -40px;
+}
+.c_indi [data-bs-target] {
+    width: 12px !important;
+    height: 12px !important;
+
+}
+.s_text h1 {
+    font-size: 20px;
+    
+}
+.s_text h2 {
+    margin: 10px 0;
+    font-size: 16px;
+    
+}
+.s_text p {
+    margin-bottom: 20px;
+}
+.s_icon ul li {
+    margin-right: 18px !important;
+}
+.s_icon ul li i {
+    font-size: 22px;
+    
+}
+/*features starts*/
+.c_padding {
+  padding-top:60px;
+  padding-bottom:80px;
+}
+.f_item{
+  margin-top: 30px;
+}
+.f_icon i{
+  margin-top: 0 !important;
+  font-size: 35px;
+  
+}
+.f_text{
+  text-align: center;
+}
+.f_text h2{
+  margin-bottom:0px ;
+  font-size: 20px;
+  
+}
+.f2_text p {
+  word-spacing: 0px;
+}
+
+/*contact starts*/
+.c_form{
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+.c_input{
+  height: 45px;
+  padding: 10px 10px;
+}
+/*submit/contact*/
+.c_icon li i {
+  font-size: 22px;
+}
+.c_icon li {
+  margin-right: 25px!important;
+}
+  
+
+/*contact ends*/
+/*footer starts*/
+footer{
+  padding-bottom: 70px;
+}
+.f_1{
+  text-align: center;
+  margin-bottom: 40px;
+}
+.f_2{
+  text-align: center;
+}
+/*footer ends*/
+}
+
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header starts*/
+
+ .menu ul li a {
+    
+    padding: 10px 0  0 !important;
+    font-size:18px;
+    text-align: right !important;
+
+/*header ends*/
+
+}
+/*features starts*/
+.c_padding {
+  padding-top:80px;
+  padding-bottom:100px;
+}
+.f_item{
+  margin-top: 50px;
+}
+
+/*submit/contact starts*/
+.c_form{
+  margin-top: 65px;
+  margin-bottom: 70px;
+}
+/*submit/contact ends*/
+/*footer starts*/
+
+footer{
+  padding-bottom: 100px;
+}
+
+/*footer ends*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+
+  }
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+
+
+  }
+

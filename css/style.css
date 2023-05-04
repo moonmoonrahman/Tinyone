@@ -1,0 +1,235 @@
+/*common start*/
+
+body{
+	font-family:'PT Sans', sans-serif ;
+	font-size:16px ;
+	font-weight: 400;
+	color: #898989;
+}
+
+.c_padding{
+	padding-top:100px;
+	padding-bottom:120px;
+}
+/*common ends*/
+/*header starts*/
+
+header {
+	background-color:#fcdb00;
+	padding:15px 0;
+
+}
+
+.c_nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+	
+	font-size:16px ;
+	font-weight: 700 !important;
+	color: #010101 !important;
+	padding:0 65px !important;
+	
+
+}
+.menu ul li:last-child a{
+	padding-right:0!important;
+}
+.menu ul li a:hover{
+	color: white !important;
+
+}
+/*header ends*/
+
+/*slide starts*/
+
+.slider {
+	padding-bottom: 100px;
+	background-color: #fcdb00;
+}
+
+.c_indi{
+    
+    bottom: -79px;
+    
+}
+
+.c_indi [data-bs-target] {
+  
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+}
+
+.s_text {
+
+	margin-top:55px;
+
+}
+
+.s_text h1 { 
+
+
+	font-size: 26px;
+    font-weight: 700;
+    color: #010101;
+}
+.s_text h2{
+	margin: 20px 0;
+	font-size: 18px;
+    font-weight: 400;
+    
+}
+.s_text p {
+
+	margin-bottom: 40px;
+}
+.s_icon {
+
+}
+.s_icon ul li {
+	margin-right: 18px !important;
+}
+.s_icon ul li i{
+	font-size: 28px;
+	color:#010101 ;
+	transition-duration: 0.3s;
+
+}
+
+.s_icon ul li i:hover{
+	color: white;
+	transform: scale(.8);
+}
+.s_image {}
+.s_image img{}
+
+/*slide ends*/
+
+
+/*features starts*/
+.features{
+	padding-top:100px;
+	padding-bottom:120px;
+}
+.c_title{
+
+}
+.c_h1{
+	margin-bottom: 10px;
+	font-size: 32px;
+	font-weight: 700 !important;
+	color:#010101 !important;
+}
+.c_p{
+	font-size: 20px;
+	color: #898989;
+	line-height:28px;
+}
+.f_item{
+	margin-top: 70px;
+
+}
+
+.f_icon {
+
+}
+.f_icon i{
+	margin-top: 2px;
+	font-size: 50px;
+	color: #010101 !important;
+	transition: 0.3s;
+}
+.f_icon i:hover{
+  color: white;
+  transform: scale(.8);
+}
+.f_text{}
+.f_text h2{
+	margin-bottom:12px ;
+	font-size: 22px;
+	font-weight: 400;
+	color: #010101 !important;
+}
+.f2_text p {
+	word-spacing: 1px;
+}
+
+/*features ends*/
+
+/*contact starts*/
+.contact{
+	background-color: #010101;
+}
+.yellow{
+	color: #fcdb00 !important;
+}
+
+/*contact ends*/
+
+/*submit star*/
+.c_form{
+	margin-top: 30px;
+	margin-bottom: 70px;
+}
+.c_input{
+	height: 55px;
+	font-family:font-family:'PT Sans', sans-serif ;
+	padding: 15px 20px;
+
+	color: #898989;
+
+
+}
+.c_submit{
+	width: 100%;
+	height: 50px;
+	background-color:#fcdb00 ;
+	text-transform: uppercase;
+}
+/*submit end*/
+
+/*submit-icon stars*/
+.c_icon{}
+.c_icon li {
+	margin-right: 30px!important;
+}
+.c_icon li:last-child {
+	margin-right: 0px!important;
+}
+
+.c_icon li i {
+	font-size: 30px;
+	color: #fcdb00;
+	transition-duration: 0.3s;
+	
+}
+
+.c_icon li i:hover{
+	
+	color: white;	
+}
+
+/*submit icon ends*/
+
+/*footer starts*/
+
+footer{
+	background-color: #010101;
+	padding-bottom: 120px;
+}
+.f_1{
+	color: #fff;
+}
+.f_1 address{}
+.f_2{
+
+}
+.f_2 p a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+/*footer ends*/
